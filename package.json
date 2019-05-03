@@ -1,0 +1,18 @@
+{
+  "name": "lab9",
+  "version": "1.0.0",
+  "description": "This module will help the sports-api to work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Gabriel Carrion",
+  "license": "ISC",
+  "dependencies": {
+    "json-parser": "^1.1.5",
+    "modules": "^0.4.0",
+    "mongoose": "^5.5.5",
+    "nodemon": "^1.19.0"
+  }
+}
