@@ -10,6 +10,7 @@
   "author": "Gabriel Carrion",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-parser": "^1.1.5",
     "modules": "^0.4.0",
     "mongoose": "^5.5.5",
